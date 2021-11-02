@@ -1,0 +1,64 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+
+h2 {
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    display: inline;
+    float: left;
+    line-height: 20px;
+    margin-left: 40px;
+}
+
+.navbar {
+    height: 60px;
+    background-color: rgb(228, 59, 59);
+    text-decoration: none;
+    padding: auto;
+
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+
+}
+
+.navbar ul {
+    list-style: none;
+    float: right;
+    display: flex;
+    padding-right: 40px;
+    padding-top: 3px;
+}
+
+
+
+.navbar a:hover {
+
+    color: rgb(14, 13, 13);
+
+}
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+    margin-top: 500px;
+}
